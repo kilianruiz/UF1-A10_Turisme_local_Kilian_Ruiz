@@ -1,0 +1,44 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin:0%;
+}
+.colLateral{
+    width:20%;
+    float:left;
+}
+#colMedio{
+    width:60%;
+    float:left;
+}
+.pantallaCompleta{
+    display:flex;
+}
+#img1{
+    height:50vh;     
+    background-image: url("./img/img2.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+#img2{
+    height:50vh;     
+    background-image: url("./img/img1.webp");
+    background-size: cover;
+    background-position: center;
+}
+
+#img3{
+    height:50vh;     
+    background-image: url("./img/img3.jpg");
+    background-size: cover;
+    background-position: center;
+}
+
+#img3{
+    height:50vh;     
+    background-image: url(".");
+    background-size: cover;
+    background-position: center;
+}
